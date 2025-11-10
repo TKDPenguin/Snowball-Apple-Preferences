@@ -5,6 +5,9 @@ apple quality: Kaggle Flavor Dataset
 Rittman Orchard: Apple Names
 
 Edited Data:
-
 Apples Names: From Rittman Orchard, includes Names and Flavors
-Apples Flavor: From apple quality, includes 'Sweetness', 'Crunchiness', 'Juiciness', 'Ripeness', 'Acidity',
+Apples Flavor: From apple quality, includes 'Sweetness', 'Crunchiness', 'Juiciness', 'Ripeness', 'Acidity'
+
+Data Cleaning.py
+ - Python File
+ - Cleaned the Data
