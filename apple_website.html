@@ -306,7 +306,6 @@
 
     function score(user,a){
       // Manhattan distance (lower is better), then invert
-      console.log(a)
       const d=Math.abs(user.sweetness-a.sweetness)+Math.abs(user.tartness-a.tartness)+Math.abs(user.crispness-a.crispness)+Math.abs(user.juiciness-a.juiciness);
       return 40-d; // 4 features * range 0–10 → max distance 40
     }
